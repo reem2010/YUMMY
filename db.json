@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "name": "cheese burger",
+      "category": 1,
+      "price": 300,
+      "count": 0,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "creemy mashroom",
+      "price": 80,
+      "count": 0,
+      "category": 1
+    },
+    {
+      "id": "3",
+      "name": "chicken burger",
+      "price": 90,
+      "count": 0,
+      "category": 1
+    },
+    {
+      "id": "4",
+      "name": "smashed burger",
+      "price": 50,
+      "count": 0,
+      "category": 1
+    },
+    {
+      "id": "5",
+      "name": "Double cheece burger",
+      "price": 110,
+      "count": 0,
+      "category": 1
+    },
+    {
+      "id": "6",
+      "name": "crispy chicken",
+      "price": 95,
+      "count": 0,
+      "category": 1
+    },
+    {
+      "id": "7",
+      "name": "caesar salad",
+      "price": 70,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "8",
+      "name": "onion rings",
+      "price": 70,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "9",
+      "name": "greek salad",
+      "price": 70,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "10",
+      "name": "french fries",
+      "price": 70,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "11",
+      "name": "chicken nuggets",
+      "price": 70,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "12",
+      "name": "chicken nuggets",
+      "price": 70,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "13",
+      "name": "mozzarella sticks",
+      "price": 75,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "14",
+      "name": "coleslaw",
+      "price": 50,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "15",
+      "name": "potato wedges",
+      "price": 65,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "16",
+      "name": "mac and cheese",
+      "price": 80,
+      "count": 0,
+      "category": 2
+    },
+    {
+      "id": "17",
+      "name": "Margherita",
+      "price": 80,
+      "count": 0,
+      "category": 3
+    },
+    {
+      "id": "18",
+      "name": "Chicken & Mushroom",
+      "price": 80,
+      "count": 0,
+      "category": 3
+    },
+    {
+      "id": "19",
+      "name": "BBQ Chicken",
+      "price": 80,
+      "count": 0,
+      "category": 3
+    },
+    {
+      "id": "20",
+      "name": "Sweet & Sour Chicken",
+      "price": 80,
+      "count": 0,
+      "category": 3
+    },
+    {
+      "id": "fcb9",
+      "name": "cheese burger",
+      "category": 1,
+      "price": 2000,
+      "count": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Burger"
+    },
+    {
+      "id": "2",
+      "name": "Sides"
+    },
+    {
+      "id": "3",
+      "name": "Pizza"
+    }
+  ]
+}
