@@ -26,7 +26,7 @@ export default function Menu({ items, categories, addToCart, isLoading }) {
     setCurrentPage(1);
   }
 
-  let regex = new RegExp(RegExp.escape(searchInput), "i");
+  let regex = new RegExp(searchInput, "i");
 
   let filteredItems = items.filter(
     (item) =>
